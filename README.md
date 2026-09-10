@@ -1,282 +1,140 @@
-# 👋 Hi, I'm Franklin Chinonso Osuji
+﻿# Franklin Osuji
 
-<h3 align="center">
-Platform Engineer • Cloud & DevOps Engineer • Systems Engineer
-</h3>
+### Cloud Infrastructure & DevOps Engineer
 
-<p align="center">
-Building reliable platforms, scalable infrastructure, and production-ready systems.
-</p>
+**AWS · Azure · Terraform · Kubernetes · Docker · CI/CD · Platform Engineering · SRE · Observability**
 
-<p align="center">
+I build automation-first cloud infrastructure, Kubernetes platforms, CI/CD pipelines, observability systems, and reliability engineering environments.
 
-[![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?logo=amazon-aws\&logoColor=white)](https://www.credly.com/users/franklin-chinonso-osuji.4b5356de)
-![Platform Engineering](https://img.shields.io/badge/Platform-Engineering-blue)
-![DevOps](https://img.shields.io/badge/DevOps-Automation-success)
-![Open Source](https://img.shields.io/badge/Open%20Source-Learning-orange)
-![Location](https://img.shields.io/badge/Berlin-Germany-red)
-
-</p>
+📍 **Berlin, Germany** · 🇪🇺 Open to Cloud, DevOps, Platform & SRE opportunities across Germany and the EU
 
 ---
 
-# 🚀 About Me
+## What I Build
 
-I'm a **Cloud & Platform Engineer** passionate about building systems that are reliable, observable, scalable, and easy for developers to use.
-
-My focus isn't simply deploying applications.
-
-I enjoy understanding **how distributed systems behave**, **why infrastructure fails**, and **how platforms can improve developer productivity**.
-
-My engineering philosophy combines **cloud architecture**, **systems programming**, and **DevOps automation** to create production-ready solutions.
-
-Currently I'm focused on:
-
-* ☁️ Cloud Infrastructure
-* ⚙️ Platform Engineering
-* 🚀 DevOps Automation
-* 📊 Observability
-* 🐳 Containers & Orchestration
-* 🏗️ Distributed Systems
+- ☁️ **Cloud Infrastructure** — AWS, Azure, networking, IAM, compute and storage
+- 🏗️ **Infrastructure as Code** — Terraform and Ansible
+- ☸️ **Platform Engineering** — Kubernetes, Kind, Helm, Kustomize and GitOps
+- 🚀 **CI/CD Automation** — GitHub Actions, Jenkins and GitLab CI
+- 📊 **Observability** — Prometheus, Grafana, Loki and CloudWatch
+- 🛡️ **DevSecOps** — policy enforcement, vulnerability scanning and runtime security
+- 🔥 **SRE & Reliability** — chaos engineering, incident response, SLOs, MTTR and error budgets
 
 ---
 
-# 💼 What I Build
+## Featured Engineering Projects
 
-Instead of collecting tutorial repositories, I build projects that simulate real production environments.
+### ⚔️ ChaosForge
 
-My repositories demonstrate engineering principles rather than isolated technologies.
+**SRE & Chaos Engineering Lab** for controlled failure injection, automated recovery, MTTR measurement, SLO evaluation and observability.
 
-## 🚀 LocalOps Dashboard
+**Stack:** `PowerShell` `Python` `FastAPI` `Docker` `Prometheus` `Grafana` `SRE`
 
-> **A complete local platform engineering environment.**
-
-A production-inspired platform that allows developers to deploy, monitor, and manage services locally without relying on cloud infrastructure.
-
-### Highlights
-
-* Platform orchestration
-* Service lifecycle management
-* Monitoring & observability
-* Developer platform concepts
-* Infrastructure simulation
-* Clean system architecture
-
-**Tech**
-
-```
-React
-TypeScript
-Node.js
-Express
-SQLite
-Docker
-```
-
-➡️ **Repository**
-
-https://github.com/franklinosuji2-afk/localops-dashboard
+[View ChaosForge →](https://github.com/franklinosuji2-afk/chaosforge)
 
 ---
 
-## ⚡ MicroCache
+### 🛡️ KubeSentinel
 
-> **A Redis-inspired in-memory caching engine built completely from scratch.**
+**GitOps-driven Kubernetes security platform** combining Argo CD, OPA Gatekeeper, Falco, Trivy and Prometheus/Grafana to enforce security before and during runtime.
 
-Instead of installing Redis...
+**Stack:** `Kubernetes` `Argo CD` `Gatekeeper` `Falco` `Trivy` `GitOps` `DevSecOps`
 
-...I built one.
-
-MicroCache demonstrates the engineering principles behind modern caching systems.
-
-### Highlights
-
-* O(1) Map-based storage
-* TTL expiration
-* Persistence
-* Metrics collection
-* REST API
-* Interactive CLI
-* Benchmark suite
-
-### Performance
-
-* 🚀 400,000+ SET operations/sec
-* 🚀 600,000+ GET operations/sec
-* ⚡ Sub-millisecond latency
-
-**Tech**
-
-```
-Node.js
-TypeScript
-Express
-JSON Persistence
-```
-
-➡️ **Repository**
-
-https://github.com/franklinosuji2-afk/microcache
+[View KubeSentinel →](https://github.com/franklinosuji2-afk/sentinel-gate)
 
 ---
 
-# 🧠 Engineering Philosophy
+### 🚀 PlatformOps-Lab
 
-I believe strong engineers understand systems at multiple levels.
+**Local Kubernetes platform** demonstrating Terraform, Ansible, Docker, Kustomize, CI/CD and full observability with Prometheus, Grafana and Loki.
 
-| High-Level Thinking  | Low-Level Thinking  |
-| -------------------- | ------------------- |
-| Platform Engineering | Systems Programming |
-| Cloud Architecture   | Data Structures     |
-| Automation           | Performance         |
-| Observability        | Memory Efficiency   |
-| Reliability          | Concurrency         |
+**Stack:** `Terraform` `Ansible` `Kubernetes` `Docker` `GitHub Actions` `Prometheus` `Grafana`
 
-Technology changes.
-
-Engineering principles don't.
+[View PlatformOps-Lab →](https://github.com/franklinosuji2-afk/PlatformOps-Lab)
 
 ---
 
-# 🛠 Technical Skills
+### ☁️ LocalCloud Control Plane
 
-## Cloud
+**Local-first platform engineering control plane** modelling service management, desired state, deployment orchestration, lifecycle transitions, events and infrastructure state.
 
-* AWS
-* EC2
-* ECS
-* IAM
-* VPC
-* S3
-* Route53
-* CloudFormation
+**Stack:** `React` `Vite` `Node.js` `Express` `Docker` `Platform Engineering`
+
+[View LocalCloud Control Plane →](https://github.com/franklinosuji2-afk/LocalCloud-Control-Plane)
 
 ---
 
-## DevOps
+### 🌐 Professional Portfolio
 
-* Docker
-* GitHub Actions
-* Jenkins
-* Terraform
-* Linux
-* Bash
-* CI/CD
+My production portfolio showcasing cloud infrastructure, DevOps, platform engineering, certifications, professional experience and engineering projects.
+
+**Live:** [fc-dev.netlify.app](https://fc-dev.netlify.app/)
+
+**Repository:** [project-polish-pro](https://github.com/franklinosuji2-afk/project-polish-pro)
 
 ---
 
-## Platform Engineering
+## Technical Stack
 
-* Containers
-* Service Architecture
-* Infrastructure Automation
-* Monitoring
-* Logging
-* Performance Optimization
-* Systems Design
-
----
-
-## Backend
-
-* Node.js
-* Express
-* FastAPI
-* REST APIs
-* TypeScript
-* Python
+| Domain | Technologies |
+|---|---|
+| **Cloud** | AWS, Azure, EC2, ECS/Fargate, S3, VPC, IAM, Lambda, RDS, CloudFormation, Route 53 |
+| **IaC** | Terraform, Ansible |
+| **Containers** | Docker, Kubernetes, Helm, Kustomize, Kind |
+| **CI/CD** | GitHub Actions, Jenkins, GitLab CI, PowerShell |
+| **Observability** | Prometheus, Grafana, Loki, CloudWatch |
+| **Reliability** | SRE, incident response, chaos engineering, SLOs, MTTR |
+| **Security** | OPA Gatekeeper, Falco, Trivy, GitOps security practices |
+| **Programming** | Python, FastAPI, Node.js, TypeScript, JavaScript, Bash, SQL |
+| **Data** | PostgreSQL, DynamoDB, SQLite, JSON persistence |
+| **Systems** | Linux administration, Git, GitHub, WSL2 |
 
 ---
 
-## Databases
+## Certifications
 
-* PostgreSQL
-* SQLite
-
----
-
-## Tools
-
-* Git
-* VS Code
-* Docker Desktop
-* Postman
-* WSL2
+- **AWS Certified Cloud Practitioner** — Active
+- **HashiCorp Certified: Terraform Associate** — In Progress · Exam Scheduled
+- **AWS Certified Solutions Architect – Associate** — In Progress · Expected 2026
 
 ---
 
-# 📈 Current Focus
+## Professional Focus
 
-I'm actively building projects around
+I'm focused on building reliable, automated and maintainable infrastructure.
 
-* Kubernetes
-* Internal Developer Platforms
-* Platform Engineering
-* Cloud Infrastructure
-* Distributed Systems
-* Service Reliability
-* Developer Experience (DX)
+Current areas of focus:
 
----
-
-# 🌍 Open to Opportunities
-
-I'm currently open to positions including:
-
-* Platform Engineer
-* Cloud Engineer
-* DevOps Engineer
-* Site Reliability Engineer (SRE)
-* Infrastructure Engineer
-
-**Location**
-
-📍 Berlin, Germany
-
-**Work Authorization**
-
-✅ Unlimited Permanent Residence (Germany)
+- Cloud infrastructure engineering
+- Platform engineering
+- Kubernetes operations
+- Infrastructure automation
+- CI/CD engineering
+- Observability and reliability
+- DevSecOps
+- Cloud cost efficiency
+- SRE practices
 
 ---
 
-# 🤝 Let's Connect
+## Open to Opportunities
 
-🌐 **Portfolio**
+I'm currently open to:
 
-https://fc-dev.netlify.app
+**Cloud Engineer · DevOps Engineer · Platform Engineer · SRE · Cloud Infrastructure Engineer · Cloud Platform Engineer · Infrastructure Automation Engineer**
 
-💼 **LinkedIn**
-
-https://linkedin.com/in/franklin-osuji-a96003321
-
-🏅 **AWS Certification**
-
-https://www.credly.com/users/franklin-chinonso-osuji.4b5356de
-
-📂 **GitHub**
-
-https://github.com/franklinosuji2-afk
+📍 Berlin / Germany  
+🇪🇺 Remote across Europe
 
 ---
 
-# 📊 GitHub Stats
+## Connect
 
-<!-- Replace with your preferred GitHub stats widgets -->
-
-```text
-Building platforms.
-Learning continuously.
-Sharing openly.
-```
+- 🌐 [Portfolio](https://fc-dev.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/franklin-osuji-a96003321/)
+- 🐙 [GitHub](https://github.com/franklinosuji2-afk)
+- 📧 [Email](mailto:franklin.osuji2@gmail.com)
 
 ---
 
-# 💬 A Quote I Engineer By
-
-> *"Great infrastructure is invisible. It simply works."*
-
----
-
-⭐ Thanks for stopping by.
-
-If any of my projects interest you, I'd love to connect and discuss platform engineering, cloud architecture, distributed systems, or DevOps.
+> Building infrastructure that is automated, observable, secure and reliable.
