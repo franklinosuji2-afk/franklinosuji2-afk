@@ -1,10 +1,6 @@
 ﻿# Franklin Osuji
 
-### Cloud Infrastructure & DevOps Engineer
-
-**AWS · Azure · Terraform · Kubernetes · Docker · CI/CD · Platform Engineering · SRE · Observability**
-
-I build automation-first cloud infrastructure, Kubernetes platforms, CI/CD pipelines, observability systems, and reliability engineering environments.
+### Cloud & DevOps engineer based in Berlin with 4+ years of professional experience delivering AWS and Azure infrastructure as code, containerized workloads and CI/CD pipelines for contract and client environments, plus a 2.5-year apprenticeship and 1.5 years of work-study since 2019. I work across the full delivery path: Terraform-provisioned infrastructure, Jenkins and GitHub Actions pipelines, ECS Fargate and Kubernetes deployments, and Prometheus, Grafana and Loki for observability. In personal projects I build platform tooling, including a local Kubernetes lab with Git-based GitOps practices and Trivy and Snyk scanning. My background is petroleum engineering, where a small miscalculation has large consequences. I carry that habit into infrastructure: think in systems, respect constraints, and ask what a change depends on before touching it. The goal is infrastructure that is repeatable, secure and does not need a hero to keep it running. AWS Certified Cloud Practitioner, studying for the HashiCorp Terraform Associate and AWS Solutions Architect Associate. Completed the DevOps & Cloud Engineering program at DCI Berlin. English native, German B2. Open to hybrid and remote Cloud, DevOps, Platform and SRE roles in Berlin, Germany and the EU.
 
 📍 **Berlin, Germany** · 🇪🇺 Open to Cloud, DevOps, Platform & SRE opportunities across Germany and the EU
 
