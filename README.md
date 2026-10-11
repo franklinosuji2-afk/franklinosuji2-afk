@@ -64,7 +64,7 @@
 
 My production portfolio showcasing cloud infrastructure, DevOps, platform engineering, certifications, professional experience and engineering projects.
 
-**Live:** [fc-dev.netlify.app](https://fc-dev.netlify.app/)
+**Live:** (https://cfo-dev.pages.dev/)
 
 **Repository:** [project-polish-pro](https://github.com/franklinosuji2-afk/project-polish-pro)
 
@@ -126,7 +126,7 @@ I'm currently open to:
 
 ## Connect
 
-- 🌐 [Portfolio](https://fc-dev.netlify.app/)
+- 🌐 [Portfolio]( https://cfo-dev.pages.dev/ )
 - 💼 [LinkedIn](https://www.linkedin.com/in/franklin-osuji-a96003321/)
 - 🐙 [GitHub](https://github.com/franklinosuji2-afk)
 - 📧 [Email](mailto:franklin.osuji2@gmail.com)
