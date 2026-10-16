@@ -27,6 +27,16 @@ AWS Certified Cloud Practitioner, preparing to sit the HashiCorp Terraform Assoc
 
 ## Featured Engineering Projects
 
+### 🏗️ AWS Terraform Platform
+
+**Terraform platform on AWS** with an S3 remote backend, GitHub OIDC (separate plan and apply roles, no stored AWS keys) and GitHub Actions for plan, apply and destroy with reviewer approval. The Lambda page it created is deployed and served from AWS.
+
+**Stack:** `Terraform` `AWS` `IAM` `S3` `Lambda` `GitHub Actions` `OIDC` `Trivy`
+
+[View AWS Terraform Platform →](https://github.com/franklinosuji2-afk/aws-terraform-platform)
+
+---
+
 ### ⚔️ ChaosForge
 
 **SRE & Chaos Engineering Lab** for controlled failure injection, automated recovery, MTTR measurement, SLO evaluation and observability.
@@ -39,19 +49,19 @@ AWS Certified Cloud Practitioner, preparing to sit the HashiCorp Terraform Assoc
 
 ### 🛡️ KubeSentinel
 
-**GitOps-driven Kubernetes security platform** combining Argo CD, OPA Gatekeeper, Falco, Trivy and Prometheus/Grafana to enforce security before and during runtime.
+**Local Kubernetes security lab** with CI gates (yamllint, kubeconform, Trivy image and config scans), four OPA Gatekeeper policies, and a kind cluster scripted with Argo CD, Prometheus, Grafana and Falco.
 
 **Stack:** `Kubernetes` `Argo CD` `Gatekeeper` `Falco` `Trivy` `GitOps` `DevSecOps`
 
-[View KubeSentinel →](https://github.com/franklinosuji2-afk/sentinel-gate)
+[View KubeSentinel →](https://github.com/franklinosuji2-afk/kubesentinel)
 
 ---
 
 ### 🚀 PlatformOps-Lab
 
-**Local Kubernetes platform** demonstrating Terraform, Ansible, Docker, Kustomize, CI/CD and full observability with Prometheus, Grafana and Loki.
+**Local Kubernetes platform** on Kind with Kustomize, Argo CD GitOps, a Terraform example, GitHub Actions with Trivy, and a Docker Compose observability stack (Prometheus, Grafana, Loki).
 
-**Stack:** `Terraform` `Ansible` `Kubernetes` `Docker` `GitHub Actions` `Prometheus` `Grafana`
+**Stack:** `Terraform` `Kubernetes` `Kustomize` `Argo CD` `Docker` `GitHub Actions` `Prometheus` `Grafana` `Loki`
 
 [View PlatformOps-Lab →](https://github.com/franklinosuji2-afk/PlatformOps-Lab)
 
@@ -69,9 +79,9 @@ AWS Certified Cloud Practitioner, preparing to sit the HashiCorp Terraform Assoc
 
 ### 🌐 Professional Portfolio
 
-My production portfolio showcasing cloud infrastructure, DevOps, platform engineering, certifications, professional experience and engineering projects.
+My portfolio site showcasing cloud infrastructure, DevOps, platform engineering, certifications, professional experience and engineering projects.
 
-**Live:** (https://cfo-dev.pages.dev/)
+**Live:** [cfo-dev.pages.dev](https://cfo-dev.pages.dev/)
 
 **Repository:** [project-polish-pro](https://github.com/franklinosuji2-afk/project-polish-pro)
 
@@ -97,8 +107,8 @@ My production portfolio showcasing cloud infrastructure, DevOps, platform engine
 ## Certifications
 
 - **AWS Certified Cloud Practitioner** — Active
-- **HashiCorp Certified: Terraform Associate** — In Progress · Exam Scheduled
-- **AWS Certified Solutions Architect – Associate** — In Progress · Expected 2026
+- **HashiCorp Certified: Terraform Associate** — In Progress · Exam planned for 2027
+- **AWS Certified Solutions Architect – Associate** — In progress · planned before the end of 2026
 
 ---
 
